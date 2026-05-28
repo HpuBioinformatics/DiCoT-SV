@@ -8,7 +8,7 @@ Hi‑C‑based structural variation detection using a directional convolu-tion a
 ### Step 1: Clone the repository
 
 ```
-git clone https://github.com/XXXXXXXX/DiCoT-SV.git
+git clone https://github.com/HpuBioinformatics/DiCoT-SV.git
 cd DiCoT-SV
 ```
 
